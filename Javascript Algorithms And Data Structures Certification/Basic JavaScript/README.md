@@ -83,7 +83,7 @@ var myName;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">3. Storing Values with the Assignment Operator</span></summary>
+<details><summary><b>3. Storing Values with the Assignment Operator</b></summary>
 
 In JavaScript, you can store a value in a variable with the _assignment_ operator.
 
