@@ -157,7 +157,7 @@ var a = 9;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">5. Understanding Uninitialized Variables</span></summary>
+<details><summary><b>5. Understanding Uninitialized Variables</b></summary>
 
 When JavaScript variables are declared, they have an initial value of `undefined`. If you do a mathematical operation on an `undefined` variable your result will be `NaN` which means _"Not a Number"_. If you concatenate a string with an `undefined` variable, you will get a literal _string_ of `"undefined"`.
 
@@ -244,7 +244,7 @@ titleCaseOver = 9000;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">7. Add Two Numbers with JavaScript</span></summary>
+<details><summary><b>7. Add Two Numbers with JavaScript</b></summary>
 
 `Number` is a data type in JavaScript which represents numeric data.
 
