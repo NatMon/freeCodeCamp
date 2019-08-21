@@ -38,7 +38,7 @@ of commenting */
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">2. Declare JavaScript Variables</span></summary>
+<details><summary><b>2. Declare JavaScript Variables</b></summary>
 
 In computer science, _data_ is anything that is meaningful to the computer. JavaScript provides seven different _data types_ which are `undefined`, `null`, `boolean`, `string`, `symbol`, `number`, and `object`.
 
@@ -127,7 +127,7 @@ b = a;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">4. Initializing Variables with the Assignment Operator</span></summary>
+<details><summary><b>4. Initializing Variables with the Assignment Operator</b></summary>
 
 It is common to _initialize_ a variable to an initial value in the same line as it is declared.
 
@@ -194,7 +194,7 @@ c = c + " String!";
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">6. Understanding Case Sensitivity in Variables</span></summary>
+<details><summary><b>6. Understanding Case Sensitivity in Variables</b></summary>
 
 In JavaScript all variables and function names are case sensitive. This means that capitalization matters.
 
@@ -273,7 +273,7 @@ var sum = 10 + 10;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">8. Subtract One Number from Another with JavaScript</span></summary>
+<details><summary><b>8. Subtract One Number from Another with JavaScript</b></summary>
 
 We can also subtract one number from another.
 
@@ -299,7 +299,7 @@ var difference = 45 - 33;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">9. Multiply Two Numbers with JavaScript</span></summary>
+<details><summary><b>9. Multiply Two Numbers with JavaScript</b></summary>
 
 We can also multiply one number by another.
 
@@ -326,7 +326,7 @@ var product = 8 * 10;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">10. Divide One Number by Another with JavaScript</span></summary>
+<details><summary><b>10. Divide One Number by Another with JavaScript</b></summary>
 
 We can also divide one number by another.
 
@@ -353,7 +353,7 @@ var quotient = 66 / 33;
 ```
 </details>
 
-<details markdown="1"><summary><span style="font-size:1.15em; font-weight:bold;">11. Increment a Number with JavaScript</span></summary>
+<details><summary><b>11. Increment a Number with JavaScript</b></summary>
 
 You can easily _increment_ or add one to a variable with the `++` operator.
 
